@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Eissa-tarique
 - 👀 I’m interested in Full stack development
-- 🌱 I’m currently learning C,HTML,CSS,java,javascript,typescript
+- 🌱 I’m currently learning C,HTML,CSS,java,javascript,python,DSA
 - 💞️ I’m looking to collaborate on projects and hacathons
 - 📫 How to reach me : eissatarique33@gmail.com
 - 😄 Pronouns: he/him
